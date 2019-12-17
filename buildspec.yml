@@ -2,7 +2,7 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      nodejs: 8
+      nodejs: 44444
   pre_build:
     commands:
-      - ls
+      - ls444
